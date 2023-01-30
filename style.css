@@ -73,6 +73,9 @@ a {
 }
 
 #ExerciseCentre {
+    display:flex;
+    align-items: center;
+    justify-content: center;
     background-color: #A5BE00;
 }
 
