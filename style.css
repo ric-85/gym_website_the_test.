@@ -103,6 +103,23 @@ a {
     font-size: 25px;
 }
 
+.container {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    text-align: center;
+    
+    
+  }
+  .column {
+    padding: 16px;
+    height: 600px;
+    margin: 5px;
+  }
+
+  .p {
+      text-align: center;
+  }
+  
 
 /* #brand {
     display:flex;
