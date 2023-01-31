@@ -1,7 +1,6 @@
 body {
     background-color:  #23272C;
-    color:azure;
-    /* color: #23272C; */
+    /* color:azure; */
     margin: 0px;
     padding: 0px;
 }
@@ -34,6 +33,7 @@ h1 {
     align-items: center;
     font-size: 25px;
     background-color: #A5BE00;
+    color: #23272C;
 }
 
 #contactText {
