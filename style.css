@@ -114,12 +114,13 @@ a {
     padding: 16px;
     height: 600px;
     margin: 5px;
+    padding-bottom: 50px;
   }
 
   .p {
       text-align: center;
   }
-  
+
 
 /* #brand {
     display:flex;
