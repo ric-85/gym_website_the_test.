@@ -52,6 +52,11 @@ h1 {
     color: #ffffff;
 }
 
+#photo {
+    display: flex;
+    width: 40%;
+}
+
 #contactImage {
     display:flex;
     justify-content: center;
