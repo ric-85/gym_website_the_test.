@@ -45,6 +45,13 @@ h1 {
     background-color: #A5BE00;
 }
 
+#credit {
+    display:flex;
+    text-align: center;
+    align-items: center;
+    color: #ffffff;
+}
+
 #contactImage {
     display:flex;
     justify-content: center;
@@ -120,14 +127,3 @@ a {
   .p {
       text-align: center;
   }
-
-
-/* #brand {
-    display:flex;
-    justify-content: flex-start;
-}
-
-#Pages {
-    display:flex;
-  flex-direction: column-reverse;
-} */
