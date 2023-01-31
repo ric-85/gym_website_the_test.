@@ -81,7 +81,20 @@ a {
     background-color: #A5BE00;
 }
 
+.amigos {    
+    display: flex;    
+    justify-content: space-evenly;    
+    flex-wrap:wrap;    
+    height: auto;     
+    width: auto;    
+    object-fit: contain;    
+} 
 
+#table {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
 
 
 
