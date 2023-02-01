@@ -8,7 +8,7 @@ body {
 h1 {
     text-align: center;
     color:#A5BE00;
-    font-size: 40px;
+    font-size: 4vw;
     background-color: #23272C;
 }
 
@@ -131,4 +131,8 @@ a {
 
   .p {
       text-align: center;
+  }
+
+  img {
+    border-radius: 20px;
   }
