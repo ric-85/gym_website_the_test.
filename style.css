@@ -136,3 +136,8 @@ a {
   img {
     border-radius: 20px;
   }
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
