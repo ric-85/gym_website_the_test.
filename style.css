@@ -1,6 +1,5 @@
 body {
     background-color:  #23272C;
-    /* color:azure; */
     margin: 0px;
     padding: 0px;
 }
@@ -82,14 +81,12 @@ a:hover{
 }
 
 a {
-    color: #637B80;
+    color:#23272C;
     text-decoration: none;
 }
 
 #exerciseCentre {
     display:flex;
-    /* flex-direction: column; */
-    /* align-items: center; */
     justify-content: center;
     background-color: #A5BE00;
 }
@@ -141,3 +138,4 @@ a {
   max-width: 100%;
   height: auto;
 }
+
